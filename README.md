@@ -24,6 +24,8 @@ The development of LegalEase AI was completed through a series of stages. The te
 
 Testing was performed to check the application's functionality, response handling, and user interaction. Finally, the project was documented and prepared for demonstration.
 
+The development was organized into stages: brainstorming and ideation, requirement analysis, project design and planning, project development, testing, documentation, and demonstration.
+
 Future Enhancements
 
 The application can be expanded by introducing additional capabilities such as regional-language support, voice input, document uploading, AI-based document summarization, conversation history, secure user accounts, and a dedicated mobile application.
